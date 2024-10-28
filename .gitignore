@@ -1,3 +1,6 @@
+# my vim autocompiler binaries
+.bin-*
+
 # Prerequisites
 *.d
 
